@@ -2,7 +2,14 @@
 - 딥러닝에서의 모델을 구현합니다.
 
 ## 목차
-### SGD
-- 스토스캐틱 경사
+### MLP
+- SGD (Stochastic Gradient Descent)
+
 ### CNN
-- ObjectDetection
+- data처리 연습
+- LeNet5
+- ResNet
+- Vgg16
+
+### ObjectDetection
+- SSD
